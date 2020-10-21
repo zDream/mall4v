@@ -45,7 +45,7 @@
         </el-form>
       </div>
 
-      <div class="bottom">Copyright © 2019 广州亚米科技有限公司</div>
+      <div class="bottom">Copyright © 2020 菏泽市沃高网路科技有限公司</div>
     </div>
   </div>
 </template>
